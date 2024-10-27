@@ -5,9 +5,9 @@
 [![](https://visitcount.itsvg.in/api?id=AdityaRoy999&icon=5&color=0)](https://visitcount.itsvg.in)
 
 ## 🙆‍♂ About me:
-- 🙂 I am an UNGRAD currenty admitted to Btech CSE(Core)
+- 🙂 I am an UNGRAD currenty admitted in Btech CSE(Core)
 - 🌱 I’m currently learning *PYTHON*
-- ✔I know the basics of C
+- ✔I know the basics of C++,python
 - 📑I am very interested in world of Development.
 - ⚡ Fun fact *HTML is not a programming language*
   
